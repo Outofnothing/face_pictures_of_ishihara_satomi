@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>最新新闻</title>
+</head>
+<style>
+*{ padding:0; margin:0;}
+img,p,b,span,div,ul,li,dl,dt,dd,h5,h6{ padding:0; margin:0;}
+body{ background:#f9f9f9;}
+a{text-decoration:none;}img {border:none}
+.error{ width:1200px; height:768px; background:#f9f9f9; margin:0 auto; padding:40px 0; font-family:"微软雅黑"; font-size:16px;}
+h6{ font-size:20px; font-weight:bold; border-left:9px solid #cc3333; line-height:27px; padding-left:5px; margin-bottom:30px;}
+.lf{ width:680px; float:left;}
+dl{ margin-bottom:50px; float:left;}
+dl dt{ float:left; width:230px;}
+dl dd{ float:left; width:450px; }
+dl dd b a{ display:block; height:40px; font-size:18px; color:#333333; }
+a:hover{ text-decoration:underline; color:#cc3333;}
+dl dd span{ color:#999999; line-height:40px; }
+dl dd p{ line-height:30px;  color:#666666;}
+dl dd p a{ color:#cc3333;}
+.rt{ background:url(http://www.591hx.com/errors/images/404pic3.jpg) no-repeat right top; height:659px;}
+</style>
+
+<body>
+	<div class="error">
+    	<h6>最新新闻</h6>
+        <div class="lf">
+        <dl>
+<dt><a href="http://finance.591hx.com/article/2018-10-12/0000696138s.shtml"  title="深圳迎土地供应小高潮 华侨城42亿底价拿2地"><img src="http://finance.591hx.com/images/2018-10-12/2018101223131-2346.JPG" width="200px" height="135px"  /></a></dt>
+<dd><b><a href="http://finance.591hx.com/article/2018-10-12/0000696138s.shtml">深圳迎土地供应小高潮 华侨城42亿底价拿2地</a></b>
+<span>2018年10月12日  14:31</span>
+<p>国庆后的深圳土地市场将迎来一轮供应小高潮</p>                
+</dd>
+</dl>
+<dl>
+<dt><a href="http://stock.591hx.com/article/2018-10-12/0001079392s.shtml"  title="近百股开启连跌模式"><img src="http://www.591hx.com/images/2018-10-12/20181012101111-4071.JPG" width="200px" height="135px"  /></a></dt>
+<dd><b><a href="http://stock.591hx.com/article/2018-10-12/0001079392s.shtml">近百股开启连跌模式</a></b>
+<span>2018年10月12日  10:11</span>
+<p>有新股刚开板就迎8连跌</p>                
+</dd>
+</dl>
+<dl>
+<dt><a href="http://stock.591hx.com/article/2018-10-10/0001079374s.shtml"  title="拖欠中植系5亿 江西富豪王永红成老赖：曾偷划60亿下落不明"><img src="http://stock.591hx.com/images/2018-10-10/2018101054820-2413.JPG" width="200px" height="135px"  /></a></dt>
+<dd><b><a href="http://stock.591hx.com/article/2018-10-10/0001079374s.shtml">拖欠中植系5亿 江西富豪王永红成老赖：曾偷划60亿下落</a></b>
+<span>2018年10月10日  18:00</span>
+<p>前有贾跃亭，后有王永红</p>                
+</dd>
+</dl>
+<dl>
+<dt><a href="http://stock.591hx.com/article/2018-10-08/0001079350s.shtml"  title="华讯投资：“非农”爆冷,市场“仓皇”"><img src="http://stock.591hx.com/images/2018-10-08/2018100814732-5593.JPG" width="200px" height="135px"  /></a></dt>
+<dd><b><a href="http://stock.591hx.com/article/2018-10-08/0001079350s.shtml">华讯投资：“非农”爆冷,市场“仓皇”</a></b>
+<span>2018年10月08日  13:47</span>
+<p>上周国内迎来国庆假期，但国际金融市场一点也不平静</p>                
+</dd>
+</dl>
+
+        </div>
+        <div class="rt"></div>   
+    </div>
+<span style="display:none">
+<script type="text/javascript" src="http://www.591hx.com/js/tongji.js"></script>
+</span>
+
+</body>
+</html>
